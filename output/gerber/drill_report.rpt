@@ -1,0 +1,24 @@
+Drill report for sensus-breakout.kicad_pcb
+Created on Wed Jul 19 14:48:20 2023
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'sensus-breakout.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (37 holes)
+    T2  0.500mm  0.0197"  (2 holes)  (with 2 slots)
+    T3  1.000mm  0.0394"  (10 holes)
+
+    Total plated holes count 49
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

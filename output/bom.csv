@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC
+v1 connector,J1,Connector_FFC-FPC:Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal,C506791
+Breakout,J2,Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical,
+JLink,J3,Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD,C2881910
+XC6206P332MR,U1,Package_TO_SOT_SMD:SOT-23,C5446
+1uF,"C1,C2",Capacitor_SMD:C_0402_1005Metric,C52923
+USB_B_Micro,J5,Connector_USB:USB_Micro-B_Amphenol_10118193-0001LF_Horizontal,C132562
