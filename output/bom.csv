@@ -1,7 +1,18 @@
 Comment,Designator,Footprint,LCSC
+1k,"R3,R7",Resistor_SMD:R_0402_1005Metric,C11702
+100,"R5,R6",Resistor_SMD:R_0402_1005Metric,C25076
 v1 connector,J1,Connector_FFC-FPC:Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal,C506791
-Breakout,J2,Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical,
-JLink,J3,Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD,C2881910
+Conn_01x08,J3,Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical,
+100n,"C3,C6,C7,C8,C9,C12",Capacitor_SMD:C_0402_1005Metric,C307331
 XC6206P332MR,U1,Package_TO_SOT_SMD:SOT-23,C5446
+1u,"C10,C11",Capacitor_SMD:C_0402_1005Metric,C52923
 1uF,"C1,C2",Capacitor_SMD:C_0402_1005Metric,C52923
+30p,"C4,C5",Capacitor_SMD:C_0402_1005Metric,C1570
+W25Q128JVS,U3,Package_SO:SOIC-8_5.23x5.23mm_P1.27mm,C97521
+10k,R4,Resistor_SMD:R_0402_1005Metric,C25744
+USB_BOOT,J2,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,
+27,"R1,R2",Resistor_SMD:R_0603_1608Metric,C25190
 USB_B_Micro,J5,Connector_USB:USB_Micro-B_Amphenol_10118193-0001LF_Horizontal,C132562
+12MHz,Y1,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C9002
+RP2040,U2,Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,C2040
+LED_Small,D1,LED_SMD:LED_0603_1608Metric,C72043
